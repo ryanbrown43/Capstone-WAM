@@ -1,5 +1,5 @@
 html {
-    background: url('../assets/hotdBackground.jpg') no-repeat center center fixed;
+    background: url('../assets/kingsLanding.png') no-repeat center center fixed;
     box-sizing: border-box;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -71,7 +71,7 @@ html {
   }
   
   .mole {
-    background:url('../assets/Criston Cole.png') bottom center no-repeat;
+    background:url('../assets/cristonCole.png') bottom center no-repeat;
     background-size: 40%;
     position: absolute;
     top: 100%;
