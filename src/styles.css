@@ -1,5 +1,5 @@
 html {
-    background: url('../assets/background.png') no-repeat center center fixed;
+    background: url('../assets/hotdBackground.jpg') no-repeat center center fixed;
     box-sizing: border-box;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -71,7 +71,7 @@ html {
   }
   
   .mole {
-    background:url('../assets/mole2.png') bottom center no-repeat;
+    background:url('../assets/Criston Cole.png') bottom center no-repeat;
     background-size: 40%;
     position: absolute;
     top: 100%;
@@ -100,18 +100,3 @@ html {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }
-
-  /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {...}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {...}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {...}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {...}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {...}
